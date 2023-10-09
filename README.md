@@ -8,7 +8,8 @@ Le programme est séparé en deux fichiers .c :
 Le programme utilise les codes HTTP et les redirections d'URL pour savoir s'il a réussi à se connecter ou non.
 Si un mot de passe est trouvé, le programme notifie l'utilisateur.
 ## Utilisation
-compilez le code avec votre compiler préféré. Vous aurez besoin de [la bibliothèque libcurl](https://curl.se/libcurl/).  
+Compilez le code avec votre compiler préféré. Il vous faut les outils de développement en C.  
+Vous aurez aussi besoin de [la bibliothèque libcurl](https://curl.se/libcurl/).  
 Par exemple :
 `clang generator.c -lcurl EmplacementDeLibcurl`  
 Puis, entrez le nom d'utilisateur, ainsi que l'adresse à cibler.
