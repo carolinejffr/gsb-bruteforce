@@ -15,6 +15,6 @@ Par exemple :
 Puis, entrez le nom d'utilisateur, ainsi que l'adresse à cibler.
 Dans notre cas ; `http://localhost:8888/gsbsecu/public/selection`
 ## Notes
-Ce programme est un programme de bruteforce créé et utilisé dans un cadre scolaire.
-Il ne doit pas être utilisé dans d'autres conditions et ne doit pas être détourné de son utilisation d'origine.
+Ce programme est un programme de bruteforce créé et utilisé dans un cadre scolaire.  
+Il ne doit pas être utilisé dans d'autres conditions et ne doit pas être détourné de son utilisation d'origine.  
 Je me dédouane de toute responsabilité quand à l'utilisation de ce programme.
